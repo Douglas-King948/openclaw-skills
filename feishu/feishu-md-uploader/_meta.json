@@ -1,0 +1,10 @@
+{
+  "ownerId": "ou_f35e74b14ff44420bdd4ede905c3b587",
+  "slug": "feishu-md-uploader",
+  "version": "1.0.0",
+  "publishedAt": 1772505600,
+  "description": "将本地 Markdown 文件上传到飞书并转换为云文档，支持自动格式转换和所有权转移",
+  "tags": ["feishu", "markdown", "upload", "document"],
+  "author": "Cirno",
+  "license": "MIT"
+}
