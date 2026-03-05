@@ -1,0 +1,1 @@
+# Smart Meme v3 Core Module

@@ -1,0 +1,309 @@
+{
+  "version": "3.0",
+  "memes": [
+    {
+      "id": "anime_0",
+      "path": "D:\\openclaw\\skills\\smart-meme\\local_memes\\anime\\anime_003.jpg",
+      "category": "anime",
+      "sha256": "74f6b9d2ccbb721adb039915ea535fd43ae379b94c0396a772b7a7b609a9296e",
+      "size": 43,
+      "tags": [],
+      "created_at": 1772441857.2409308
+    },
+    {
+      "id": "anime_1",
+      "path": "D:\\openclaw\\skills\\smart-meme\\local_memes\\anime\\anime_004.jpg",
+      "category": "anime",
+      "sha256": "fb4368a560190a5126fb40a8811280a3b946f7ca8420491111ccf00d5f5472b3",
+      "size": 43,
+      "tags": [],
+      "created_at": 1772441857.7612853
+    },
+    {
+      "id": "anime_2",
+      "path": "D:\\openclaw\\skills\\smart-meme\\local_memes\\anime\\anime_005.jpg",
+      "category": "anime",
+      "sha256": "50843f795932761ca94d9ccd0784bfd89f01f11e045d4ceac59cc5c3e89beb60",
+      "size": 43,
+      "tags": [],
+      "created_at": 1772441858.1081624
+    },
+    {
+      "id": "anime_3",
+      "path": "D:\\openclaw\\skills\\smart-meme\\local_memes\\anime\\anime_006.jpg",
+      "category": "anime",
+      "sha256": "dd9138b18a47d1cce84df61903564ae3a2800ced617cc196ea04cccad376ec56",
+      "size": 43,
+      "tags": [],
+      "created_at": 1772441858.445987
+    },
+    {
+      "id": "anime_4",
+      "path": "D:\\openclaw\\skills\\smart-meme\\local_memes\\anime\\anime_007.jpg",
+      "category": "anime",
+      "sha256": "bc04af4a75aa7367f4176963d4f04644a7e9c276bf887dd162dea87bba189b8c",
+      "size": 43,
+      "tags": [],
+      "created_at": 1772441858.8518515
+    },
+    {
+      "id": "anime_5",
+      "path": "D:\\openclaw\\skills\\smart-meme\\local_memes\\anime\\anime_008.jpg",
+      "category": "anime",
+      "sha256": "c279a49587f7c26f66d97df0fcf83b92a38fac342d189271313274ffb6b00d8d",
+      "size": 43,
+      "tags": [],
+      "created_at": 1772441859.3337977
+    },
+    {
+      "id": "anime_6",
+      "path": "D:\\openclaw\\skills\\smart-meme\\local_memes\\anime\\anime_009.jpg",
+      "category": "anime",
+      "sha256": "d3edb2c21c640ef92c84378ab993b634f3fd72d0fbfb2bd2c02cd0aa0d553391",
+      "size": 43,
+      "tags": [],
+      "created_at": 1772441859.712118
+    },
+    {
+      "id": "anime_7",
+      "path": "D:\\openclaw\\skills\\smart-meme\\local_memes\\anime\\anime_010.jpg",
+      "category": "anime",
+      "sha256": "9cbd9d7fa215639cf5f240e0dae92917e58f2ee9298969c8064c538e9add5337",
+      "size": 43,
+      "tags": [],
+      "created_at": 1772441860.0836768
+    },
+    {
+      "id": "panda_8",
+      "path": "D:\\openclaw\\skills\\smart-meme\\local_memes\\panda\\panda_001.jpg",
+      "category": "panda",
+      "sha256": "8c872533f43f9943ea718f421180e33e958a3cec2c16c094899f93c8010735b6",
+      "size": 22998,
+      "tags": [],
+      "created_at": 1772441888.821763
+    },
+    {
+      "id": "panda_9",
+      "path": "D:\\openclaw\\skills\\smart-meme\\local_memes\\panda\\panda_002.jpg",
+      "category": "panda",
+      "sha256": "22f9e13ff273d3bcfe0fe890a2f50f72f46b329824284c6275b4cf13fb7ee74f",
+      "size": 25568,
+      "tags": [],
+      "created_at": 1772441896.14551
+    },
+    {
+      "id": "panda_10",
+      "path": "D:\\openclaw\\skills\\smart-meme\\local_memes\\panda\\panda_003.jpg",
+      "category": "panda",
+      "sha256": "f607631f443bd00e387aa54dae8f9a65a5b728d6f4f32f84b3b025525856f0ce",
+      "size": 22007,
+      "tags": [],
+      "created_at": 1772441898.6448412
+    },
+    {
+      "id": "panda_11",
+      "path": "D:\\openclaw\\skills\\smart-meme\\local_memes\\panda\\panda_004.jpg",
+      "category": "panda",
+      "sha256": "df6b1bcf2afc61ab680a13d7f3ef55695b75a35b68f8a82b56b9f6aa28425648",
+      "size": 50124,
+      "tags": [],
+      "created_at": 1772441899.3782125
+    },
+    {
+      "id": "panda_12",
+      "path": "D:\\openclaw\\skills\\smart-meme\\local_memes\\panda\\panda_005.jpg",
+      "category": "panda",
+      "sha256": "160aaf34676cad8caeb2d4b1becf6a0fa369c4176982e1fa6a97d982a1c701b2",
+      "size": 20040,
+      "tags": [],
+      "created_at": 1772441900.6632748
+    },
+    {
+      "id": "panda_13",
+      "path": "D:\\openclaw\\skills\\smart-meme\\local_memes\\panda\\panda_008.jpg",
+      "category": "panda",
+      "sha256": "a49d53d18e10247e4ed262ad5fbd65a761b59246059f77fd5a5e21c8c1bd2dfd",
+      "size": 27775,
+      "tags": [],
+      "created_at": 1772441936.6828573
+    },
+    {
+      "id": "programmer_14",
+      "path": "D:\\openclaw\\skills\\smart-meme\\local_memes\\programmer\\prog_001.jpg",
+      "category": "programmer",
+      "sha256": "897c3c92bc675f4cbf768276668aa1065fe025581c5683b31943c14041466b5b",
+      "size": 127874,
+      "tags": [],
+      "created_at": 1772441950.1326969
+    },
+    {
+      "id": "programmer_15",
+      "path": "D:\\openclaw\\skills\\smart-meme\\local_memes\\programmer\\prog_002.jpg",
+      "category": "programmer",
+      "sha256": "d4a520ad2ce3435ba1456fa41baf8677541f0102572266a78d037f00a8b8683c",
+      "size": 133322,
+      "tags": [],
+      "created_at": 1772441951.4909194
+    },
+    {
+      "id": "programmer_16",
+      "path": "D:\\openclaw\\skills\\smart-meme\\local_memes\\programmer\\prog_003.jpg",
+      "category": "programmer",
+      "sha256": "810635f6795d1946ba254af3d9807bb4e84ad35904c405dcabe475f5ba88689e",
+      "size": 158308,
+      "tags": [],
+      "created_at": 1772441952.827575
+    },
+    {
+      "id": "programmer_17",
+      "path": "D:\\openclaw\\skills\\smart-meme\\local_memes\\programmer\\prog_004.jpg",
+      "category": "programmer",
+      "sha256": "056f8f5d5f3041fcd42617e041e702df421ec2faa332d8213f5d3c55c9ab49f0",
+      "size": 52289,
+      "tags": [],
+      "created_at": 1772441953.9255059
+    },
+    {
+      "id": "misc_18",
+      "path": "D:\\openclaw\\skills\\smart-meme\\local_memes\\misc\\misc_001.jpg",
+      "category": "misc",
+      "sha256": "de131cfccb908a3e38b7e063930327d5010adfe8b300a664f67b7891aca4479c",
+      "size": 51649,
+      "tags": [],
+      "created_at": 1772441998.4233406
+    },
+    {
+      "id": "misc_19",
+      "path": "D:\\openclaw\\skills\\smart-meme\\local_memes\\misc\\misc_002.jpg",
+      "category": "misc",
+      "sha256": "a6cc0cc5435730167acaf4844fb751c96f963c2def83d9cf0793181f8c48d16b",
+      "size": 124989,
+      "tags": [],
+      "created_at": 1772441999.7748184
+    },
+    {
+      "id": "misc_20",
+      "path": "D:\\openclaw\\skills\\smart-meme\\local_memes\\misc\\misc_003.jpg",
+      "category": "misc",
+      "sha256": "98c4b3d661056d4784e9737ca7ecb549c6dcd5626b4a8491aaab2412f95fe6ce",
+      "size": 158509,
+      "tags": [],
+      "created_at": 1772442001.144641
+    },
+    {
+      "id": "misc_21",
+      "path": "D:\\openclaw\\skills\\smart-meme\\local_memes\\misc\\misc_004.jpg",
+      "category": "misc",
+      "sha256": "cf710cc7d4343686f03d9a213e0a1714f7f2c81c3702747cf6a26539e5991df0",
+      "size": 139985,
+      "tags": [],
+      "created_at": 1772442002.5312686
+    },
+    {
+      "id": "cats_22",
+      "path": "D:\\openclaw\\skills\\smart-meme\\local_memes\\cats\\cat_001.jpg",
+      "category": "cats",
+      "sha256": "a172506f86aa1a14a8a906c22227acda3214508d0ed54cbcf32a7565f35e0e1f",
+      "size": 1027221,
+      "tags": [],
+      "created_at": 1772442861.829408
+    },
+    {
+      "id": "cats_23",
+      "path": "D:\\openclaw\\skills\\smart-meme\\local_memes\\cats\\cat_002.jpg",
+      "category": "cats",
+      "sha256": "65502fa3e5036e2fa8211c80cd2c60cdd97e2dc159fb26a9e30e7eb2d0d99a13",
+      "size": 6036,
+      "tags": [],
+      "created_at": 1772442862.0752368
+    },
+    {
+      "id": "cats_24",
+      "path": "D:\\openclaw\\skills\\smart-meme\\local_memes\\cats\\cat_003.jpg",
+      "category": "cats",
+      "sha256": "6e315b6df467fb2543c48271b2e9c52ad1010efcb06776967c857cea379701dd",
+      "size": 72099,
+      "tags": [],
+      "created_at": 1772442862.471361
+    },
+    {
+      "id": "cats_25",
+      "path": "D:\\openclaw\\skills\\smart-meme\\local_memes\\cats\\cat_004.jpg",
+      "category": "cats",
+      "sha256": "5a81baec4cff38a6ef9e660a6115f8932c41f8b052fb4b367b18d46b3aef9587",
+      "size": 2985101,
+      "tags": [],
+      "created_at": 1772442871.9800203
+    },
+    {
+      "id": "cats_26",
+      "path": "D:\\openclaw\\skills\\smart-meme\\local_memes\\cats\\cat_005.jpg",
+      "category": "cats",
+      "sha256": "8d6bb8acdac369a84fe4249563dfef2cec21228a0fc1c82f9b65e925cbe5093f",
+      "size": 703346,
+      "tags": [],
+      "created_at": 1772442874.3929932
+    },
+    {
+      "id": "cats_27",
+      "path": "D:\\openclaw\\skills\\smart-meme\\local_memes\\cats\\cat_006.jpg",
+      "category": "cats",
+      "sha256": "f14c57db97740f3032f4e49d2aeb9da7e1e93a256bfcbba0a290055e47b2f670",
+      "size": 291588,
+      "tags": [],
+      "created_at": 1772442875.9672837
+    },
+    {
+      "id": "cats_28",
+      "path": "D:\\openclaw\\skills\\smart-meme\\local_memes\\cats\\cat_007.jpg",
+      "category": "cats",
+      "sha256": "6f6afc21d807a93f1fe105acd19c9463eaa6752fbb96386ec66b249f841f17dd",
+      "size": 36643,
+      "tags": [],
+      "created_at": 1772442876.360065
+    },
+    {
+      "id": "cats_29",
+      "path": "D:\\openclaw\\skills\\smart-meme\\local_memes\\cats\\cat_008.jpg",
+      "category": "cats",
+      "sha256": "8bb74f579b8607b7a1b81e05e889def62bcd022d8d93e1a61946a4f851e69198",
+      "size": 179744,
+      "tags": [],
+      "created_at": 1772442877.2587857
+    },
+    {
+      "id": "cats_30",
+      "path": "D:\\openclaw\\skills\\smart-meme\\local_memes\\cats\\cat_009.jpg",
+      "category": "cats",
+      "sha256": "190d8a9a933b4604f2e7ece6af87c4a3b66797d9254c93d6b2bb26b79a9edecb",
+      "size": 30450,
+      "tags": [],
+      "created_at": 1772442877.4917665
+    },
+    {
+      "id": "cats_31",
+      "path": "D:\\openclaw\\skills\\smart-meme\\local_memes\\cats\\cat_010.jpg",
+      "category": "cats",
+      "sha256": "d1c546413896beb41826daaf83152c9f61df508bb49f64d6131d47029e74591f",
+      "size": 76703,
+      "tags": [],
+      "created_at": 1772442877.8876595
+    }
+  ],
+  "sha256_index": {},
+  "stats": {
+    "total_count": 32,
+    "total_size_mb": 6.22,
+    "categories": {
+      "panda": 6,
+      "programmer": 4,
+      "anime": 8,
+      "misc": 4,
+      "cats": 10,
+      "dogs": 0,
+      "wuxia": 0,
+      "animals": 0
+    }
+  },
+  "last_check": 0
+}
