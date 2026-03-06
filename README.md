@@ -102,6 +102,7 @@ REQUIRED_FILES = ["SKILL.md", "_meta.json"]
 
 | 技能 | 能力 | 触发词 |
 |------|------|--------|
+| **daily-report-sender** | 日报发送器 | "发日报" |
 | **unified-search** | 全球搜索引擎 | "搜索xxx" |
 | **smart-meme** | 表情包发送 | "来个马喽" |
 | **find-skills** | 技能发现 | "找技能" |
@@ -149,7 +150,29 @@ REQUIRED_FILES = ["SKILL.md", "_meta.json"]
    🐵 [马喽驾到！]
 ```
 
-### 示例 2: 搜索知识
+### 示例 3: 发送工作日报
+
+```
+👤 用户: 发一下昨天的工作日报
+
+🤖 Agent:
+   [调用 daily-report-sender 技能]
+   ↓
+   [读取 memory/2026-03-05.md]
+   ↓
+   [提取 ✅ 完成事项]
+   ↓
+   [下载工作主题图片]
+   ↓
+   [发送飞书卡片]
+   ↓
+   📋 2026-03-05 工作日报
+      1. ✅ 完成飞书文档流程优化
+      2. ✅ 修复 article-illustrator skill
+      ...
+```
+
+### 示例 3: 搜索知识
 
 ```
 👤 用户: 搜索 Python asyncio 教程
