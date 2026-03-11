@@ -38,8 +38,8 @@ description: |
 ```python
 # 单文件上传
 result = await upload_md_to_feishu(
-    app_id="cli_a903ccc2bb791bde",
-    app_secret="xo0A1dGoHvIAluomqNS6ob2igrEgJbdN",
+    app_id="cli_***********",
+    app_secret="************************",
     folder_token="YicMfAq2clUtHZdZBXJcdhhvnJh",
     file_path="D:/output/题库.md",
     title="零碳未来领袖计划题库"

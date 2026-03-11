@@ -46,7 +46,7 @@ ssl._create_default_https_context = ssl._create_unverified_context
 
 # ============ 配置 ============
 DEFAULT_TARGET = "ou_f35e74b14ff44420bdd4ede905c3b587"
-APP_ID = "cli_a903ccc2bb791bde"
+APP_ID = "cli_***********"
 APP_SECRET = os.environ.get("FEISHU_APP_SECRET", "")
 DAILY_IMAGE_DIR = Path(__file__).parent / "daily_images"
 STYLE_HISTORY_FILE = Path(__file__).parent / "style_history.json"

@@ -279,8 +279,8 @@ openclaw gateway logs | grep -i "skill"
         "default": {  // 必须是 default，不是 main
           "enabled": true,
           "name": "Cirno Bot",
-          "appId": "cli_a903ccc2bb791bde",
-          "appSecret": "xo0A1dGoHvIAluomqNS6ob2igrEgJbdN",
+          "appId": "cli_***********",
+          "appSecret": "************************",
           "domain": "feishu",
           "connectionMode": "websocket",
           "renderMode": "card",
@@ -421,7 +421,7 @@ async function sendText(text: string, options: SendOptions = {}) {
   "channels": {
     "feishu": {
       "enabled": true,
-      "accounts": {"default": {"enabled": true, "appId": "cli_a903ccc2bb791bde", "appSecret": "xo0A1dGoHvIAluomqNS6ob2igrEgJbdN"}}
+      "accounts": {"default": {"enabled": true, "appId": "cli_***********", "appSecret": "************************"}}
     },
     "discord": {
       "enabled": true,
