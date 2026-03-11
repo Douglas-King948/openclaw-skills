@@ -1,0 +1,25 @@
+# MCA Framework - Python Dependencies
+# 安装命令: pip install -r requirements.txt
+
+# 图片处理 (可选，用于OCR降级方案)
+# easyocr>=1.7.0
+# pytesseract>=0.3.10
+# Pillow>=10.0.0
+
+# PDF处理 (可选，用于PDF降级方案)
+# PyPDF2>=3.0.0
+# pdfplumber>=0.10.0
+
+# 表格处理 (可选，用于Excel分析)
+# pandas>=2.0.0
+# openpyxl>=3.1.0
+
+# 音频处理 (可选，用于语音转写)
+# openai-whisper>=20231117
+
+# 视频处理 (可选，用于视频分析)
+# ffmpeg-python>=0.2.0
+
+# 注意: 以上依赖都是可选的
+# MCA框架的核心功能只依赖OpenClaw原生工具
+# Python降级方案只在原生工具不可用时才会用到
